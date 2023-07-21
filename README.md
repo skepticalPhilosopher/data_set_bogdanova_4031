@@ -3,7 +3,7 @@
 
 name | picture | ammount | coordinates | source
 :----|:-------:|:-------:|:-----------:|------:
-0 |0.png | 4409 | 35° 00' 33'' N, 87° 15' 57'' W | earth.google.com
+0 |![0](0.png) | 4409 | 35° 00' 33'' N, 87° 15' 57'' W | earth.google.com
 1 |  | 3569 | 35° 00' 15'' N, 87° 16' 00'' W | earth.google.com
 2 |  | 464 | 35° 01' 51'' N, 87° 20' 05'' W | earth.google.com
 3 |  | 1275 | 35° 02' 46'' N, 87° 20' 00'' W | earth.google.com
