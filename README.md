@@ -1,7 +1,7 @@
 # data_set_bogdanova_4031
 летняя практика, найти 100 фотографий искусственно высаженных деревьев, посчитать их количество и указать координаты
 
-name | picture | ammount | coordinates | source
+name | picture | amount | coordinates | source
 :----|:-------:|:-------:|:-----------:|------:
 0 |![0](0.png) | 4409 | 35° 00' 33'' N, 87° 15' 57'' W | earth.google.com
 1 |![1](1.png) | 3569 | 35° 00' 15'' N, 87° 16' 00'' W | earth.google.com
